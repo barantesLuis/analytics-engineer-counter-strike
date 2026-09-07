@@ -1,0 +1,3812 @@
+[
+  {
+    "id": 2396949,
+    "team1": {
+      "id": 7020,
+      "name": "Spirit",
+      "score": 2,
+      "rank": 1
+    },
+    "team2": {
+      "id": 11283,
+      "name": "Falcons",
+      "score": 0,
+      "rank": 3
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-05",
+    "event": "BLAST Open Porto 2026",
+    "winner": {
+      "id": 7020,
+      "name": "Spirit"
+    }
+  },
+  {
+    "id": 2396950,
+    "team1": {
+      "id": 4494,
+      "name": "MOUZ",
+      "score": 2,
+      "rank": 2
+    },
+    "team2": {
+      "id": 9565,
+      "name": "Vitality",
+      "score": 0,
+      "rank": 4
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 7
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-05",
+    "event": "BLAST Open Porto 2026",
+    "winner": {
+      "id": 4494,
+      "name": "MOUZ"
+    }
+  },
+  {
+    "id": 2397421,
+    "team1": {
+      "id": 11581,
+      "name": "HOTU",
+      "score": 1,
+      "rank": 25
+    },
+    "team2": {
+      "id": 13679,
+      "name": "FOKUS",
+      "score": 2,
+      "rank": 48
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 4
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 10,
+        "team2_score": 13
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 6,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-05",
+    "event": "Stake Ranked Episode 4 Closed Qualifier",
+    "winner": {
+      "id": 13679,
+      "name": "FOKUS"
+    }
+  },
+  {
+    "id": 2397422,
+    "team1": {
+      "id": 4411,
+      "name": "Ninjas in Pyjamas",
+      "score": 2,
+      "rank": 27
+    },
+    "team2": {
+      "id": 13027,
+      "name": "Nuclear TigeRES",
+      "score": 0,
+      "rank": 43
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-05",
+    "event": "Stake Ranked Episode 4 Closed Qualifier",
+    "winner": {
+      "id": 4411,
+      "name": "Ninjas in Pyjamas"
+    }
+  },
+  {
+    "id": 2397420,
+    "team1": {
+      "id": 4991,
+      "name": "fnatic",
+      "score": 2,
+      "rank": 32
+    },
+    "team2": {
+      "id": 13996,
+      "name": "BBL",
+      "score": 1,
+      "rank": 53
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 9,
+        "team2_score": 13
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-05",
+    "event": "Stake Ranked Episode 4 Closed Qualifier",
+    "winner": {
+      "id": 4991,
+      "name": "fnatic"
+    }
+  },
+  {
+    "id": 2397423,
+    "team1": {
+      "id": 13355,
+      "name": "Nemesis",
+      "score": 0,
+      "rank": 45
+    },
+    "team2": {
+      "id": 7969,
+      "name": "Nemiga",
+      "score": 2,
+      "rank": 51
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 1,
+        "team2_score": 13
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 7,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-05",
+    "event": "Stake Ranked Episode 4 Closed Qualifier",
+    "winner": {
+      "id": 7969,
+      "name": "Nemiga"
+    }
+  },
+  {
+    "id": 2397219,
+    "team1": {
+      "id": 10823,
+      "name": "INFINITE",
+      "score": 2,
+      "rank": 47
+    },
+    "team2": {
+      "id": 11312,
+      "name": "QUAZAR",
+      "score": 1,
+      "rank": 80
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 9
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 5,
+        "team2_score": 13
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-05",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 10823,
+      "name": "INFINITE"
+    }
+  },
+  {
+    "id": 2397260,
+    "team1": {
+      "id": 13814,
+      "name": "INOX Division",
+      "score": 2,
+      "rank": 54
+    },
+    "team2": {
+      "id": 13573,
+      "name": "ex-Zero Tenacity",
+      "score": 1,
+      "rank": 79
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 6
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 3,
+        "team2_score": 13
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 8
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-05",
+    "event": "CCT 2026 Europe Series 8",
+    "winner": {
+      "id": 13814,
+      "name": "INOX Division"
+    }
+  },
+  {
+    "id": 2397220,
+    "team1": {
+      "id": 11641,
+      "name": "Metizport",
+      "score": 2,
+      "rank": 60
+    },
+    "team2": {
+      "id": 10278,
+      "name": "9INE",
+      "score": 0,
+      "rank": 70
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 25,
+        "team2_score": 23
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-05",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 11641,
+      "name": "Metizport"
+    }
+  },
+  {
+    "id": 2396947,
+    "team1": {
+      "id": 11283,
+      "name": "Falcons",
+      "score": 2,
+      "rank": 3
+    },
+    "team2": {
+      "id": 5995,
+      "name": "G2",
+      "score": 0,
+      "rank": 8
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 9
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 6
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "BLAST Open Porto 2026",
+    "winner": {
+      "id": 11283,
+      "name": "Falcons"
+    }
+  },
+  {
+    "id": 2396948,
+    "team1": {
+      "id": 9565,
+      "name": "Vitality",
+      "score": 2,
+      "rank": 4
+    },
+    "team2": {
+      "id": 8297,
+      "name": "FURIA",
+      "score": 1,
+      "rank": 7
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 6,
+        "team2_score": 13
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 4
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "BLAST Open Porto 2026",
+    "winner": {
+      "id": 9565,
+      "name": "Vitality"
+    }
+  },
+  {
+    "id": 2397333,
+    "team1": {
+      "id": 11241,
+      "name": "B8",
+      "score": 2,
+      "rank": 13
+    },
+    "team2": {
+      "id": 13027,
+      "name": "Nuclear TigeRES",
+      "score": 0,
+      "rank": 43
+    },
+    "maps": [
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 4
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 11241,
+      "name": "B8"
+    }
+  },
+  {
+    "id": 2397334,
+    "team1": {
+      "id": 7175,
+      "name": "HEROIC",
+      "score": 2,
+      "rank": 24
+    },
+    "team2": {
+      "id": 11251,
+      "name": "Eternal Fire",
+      "score": 1,
+      "rank": 69
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 9,
+        "team2_score": 13
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 10
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 5
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 7175,
+      "name": "HEROIC"
+    }
+  },
+  {
+    "id": 2397335,
+    "team1": {
+      "id": 7175,
+      "name": "HEROIC",
+      "score": 2,
+      "rank": 24
+    },
+    "team2": {
+      "id": 13027,
+      "name": "Nuclear TigeRES",
+      "score": 0,
+      "rank": 43
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 6
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 19,
+        "team2_score": 17
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 7175,
+      "name": "HEROIC"
+    }
+  },
+  {
+    "id": 2397417,
+    "team1": {
+      "id": 11581,
+      "name": "HOTU",
+      "score": 2,
+      "rank": 25
+    },
+    "team2": {
+      "id": 11251,
+      "name": "Eternal Fire",
+      "score": 0,
+      "rank": 69
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 16,
+        "team2_score": 13
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 10
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "Stake Ranked Episode 4 Closed Qualifier",
+    "winner": {
+      "id": 11581,
+      "name": "HOTU"
+    }
+  },
+  {
+    "id": 2397540,
+    "team1": {
+      "id": 10245,
+      "name": "JiJieHao",
+      "score": 9,
+      "rank": 30
+    },
+    "team2": {
+      "id": 13619,
+      "name": "BET-M",
+      "score": 13,
+      "rank": 87
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 9,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 1,
+    "date": "2026-09-04",
+    "event": "PGL Masters Bucharest 2026 Europe Open Qualifier 1",
+    "winner": {
+      "id": 13619,
+      "name": "BET-M"
+    }
+  },
+  {
+    "id": 2397543,
+    "team1": {
+      "id": 12916,
+      "name": "Betclic",
+      "score": 11,
+      "rank": 31
+    },
+    "team2": {
+      "id": 7969,
+      "name": "Nemiga",
+      "score": 13,
+      "rank": 51
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 11,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 1,
+    "date": "2026-09-04",
+    "event": "PGL Masters Bucharest 2026 Europe Open Qualifier 1",
+    "winner": {
+      "id": 7969,
+      "name": "Nemiga"
+    }
+  },
+  {
+    "id": 2397544,
+    "team1": {
+      "id": 4991,
+      "name": "fnatic",
+      "score": 8,
+      "rank": 32
+    },
+    "team2": {
+      "id": 13333,
+      "name": "ASTRAL",
+      "score": 13,
+      "rank": 77
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 8,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 1,
+    "date": "2026-09-04",
+    "event": "PGL Masters Bucharest 2026 Europe Open Qualifier 1",
+    "winner": {
+      "id": 13333,
+      "name": "ASTRAL"
+    }
+  },
+  {
+    "id": 2397541,
+    "team1": {
+      "id": 10621,
+      "name": "1win",
+      "score": 13,
+      "rank": 37
+    },
+    "team2": {
+      "id": 13281,
+      "name": "Bushido Wildcats",
+      "score": 11,
+      "rank": 95
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 1,
+    "date": "2026-09-04",
+    "event": "PGL Masters Bucharest 2026 Europe Open Qualifier 1",
+    "winner": {
+      "id": 10621,
+      "name": "1win"
+    }
+  },
+  {
+    "id": 2397547,
+    "team1": {
+      "id": 10621,
+      "name": "1win",
+      "score": 0,
+      "rank": 37
+    },
+    "team2": {
+      "id": 9139,
+      "name": "BRUTE",
+      "score": 2,
+      "rank": 73
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 22,
+        "team2_score": 25
+      },
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 11,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "PGL Masters Bucharest 2026 Europe Open Qualifier 1",
+    "winner": {
+      "id": 9139,
+      "name": "BRUTE"
+    }
+  },
+  {
+    "id": 2397538,
+    "team1": {
+      "id": 12878,
+      "name": "BC.Game",
+      "score": 13,
+      "rank": 38
+    },
+    "team2": {
+      "id": 11609,
+      "name": "GenOne",
+      "score": 8,
+      "rank": 67
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 8
+      }
+    ],
+    "best_of": 1,
+    "date": "2026-09-04",
+    "event": "PGL Masters Bucharest 2026 Europe Open Qualifier 1",
+    "winner": {
+      "id": 12878,
+      "name": "BC.Game"
+    }
+  },
+  {
+    "id": 2397545,
+    "team1": {
+      "id": 12878,
+      "name": "BC.Game",
+      "score": 1,
+      "rank": 38
+    },
+    "team2": {
+      "id": 13679,
+      "name": "FOKUS",
+      "score": 2,
+      "rank": 48
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 4
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 14,
+        "team2_score": 16
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 16,
+        "team2_score": 19
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "PGL Masters Bucharest 2026 Europe Open Qualifier 1",
+    "winner": {
+      "id": 13679,
+      "name": "FOKUS"
+    }
+  },
+  {
+    "id": 2397416,
+    "team1": {
+      "id": 13027,
+      "name": "Nuclear TigeRES",
+      "score": 2,
+      "rank": 43
+    },
+    "team2": {
+      "id": 10823,
+      "name": "INFINITE",
+      "score": 1,
+      "rank": 47
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 9
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 4
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 9,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "Stake Ranked Episode 4 Closed Qualifier",
+    "winner": {
+      "id": 13027,
+      "name": "Nuclear TigeRES"
+    }
+  },
+  {
+    "id": 2397419,
+    "team1": {
+      "id": 13355,
+      "name": "Nemesis",
+      "score": 2,
+      "rank": 45
+    },
+    "team2": {
+      "id": 13333,
+      "name": "ASTRAL",
+      "score": 1,
+      "rank": 77
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 7
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 7,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "Stake Ranked Episode 4 Closed Qualifier",
+    "winner": {
+      "id": 13355,
+      "name": "Nemesis"
+    }
+  },
+  {
+    "id": 2397218,
+    "team1": {
+      "id": 10823,
+      "name": "INFINITE",
+      "score": 2,
+      "rank": 47
+    },
+    "team2": {
+      "id": 13173,
+      "name": "Phantom",
+      "score": 0,
+      "rank": 62
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 10
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 7
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 10823,
+      "name": "INFINITE"
+    }
+  },
+  {
+    "id": 2397549,
+    "team1": {
+      "id": 13679,
+      "name": "FOKUS",
+      "score": 1,
+      "rank": 48
+    },
+    "team2": {
+      "id": 13619,
+      "name": "BET-M",
+      "score": 2,
+      "rank": 87
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 8,
+        "team2_score": 13
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 10
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 8,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "PGL Masters Bucharest 2026 Europe Open Qualifier 1",
+    "winner": {
+      "id": 13619,
+      "name": "BET-M"
+    }
+  },
+  {
+    "id": 2397217,
+    "team1": {
+      "id": 11712,
+      "name": "Sashi",
+      "score": 0,
+      "rank": 49
+    },
+    "team2": {
+      "id": 11641,
+      "name": "Metizport",
+      "score": 2,
+      "rank": 60
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 16
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 16
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 11641,
+      "name": "Metizport"
+    }
+  },
+  {
+    "id": 2397548,
+    "team1": {
+      "id": 7969,
+      "name": "Nemiga",
+      "score": 2,
+      "rank": 51
+    },
+    "team2": {
+      "id": 13333,
+      "name": "ASTRAL",
+      "score": 1,
+      "rank": 77
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 6
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 3
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 3,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "PGL Masters Bucharest 2026 Europe Open Qualifier 1",
+    "winner": {
+      "id": 7969,
+      "name": "Nemiga"
+    }
+  },
+  {
+    "id": 2397550,
+    "team1": {
+      "id": 7969,
+      "name": "Nemiga",
+      "score": 2,
+      "rank": 51
+    },
+    "team2": {
+      "id": 9139,
+      "name": "BRUTE",
+      "score": 1,
+      "rank": 73
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 4
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 11,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "PGL Masters Bucharest 2026 Europe Open Qualifier 1",
+    "winner": {
+      "id": 7969,
+      "name": "Nemiga"
+    }
+  },
+  {
+    "id": 2397216,
+    "team1": {
+      "id": 10278,
+      "name": "9INE",
+      "score": 2,
+      "rank": 70
+    },
+    "team2": {
+      "id": 12194,
+      "name": "Rune Eaters",
+      "score": 0,
+      "rank": 74
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 10278,
+      "name": "9INE"
+    }
+  },
+  {
+    "id": 2397215,
+    "team1": {
+      "id": 10577,
+      "name": "SINNERS",
+      "score": 1,
+      "rank": 72
+    },
+    "team2": {
+      "id": 11312,
+      "name": "QUAZAR",
+      "score": 2,
+      "rank": 80
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 5,
+        "team2_score": 13
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 3,
+        "team2_score": 13
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 5
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 11312,
+      "name": "QUAZAR"
+    }
+  },
+  {
+    "id": 2397255,
+    "team1": {
+      "id": 12267,
+      "name": "UNiTY",
+      "score": 2,
+      "rank": 88
+    },
+    "team2": {
+      "id": 13924,
+      "name": "Black Phoenix",
+      "score": 0,
+      "rank": 97
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 2
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-04",
+    "event": "CCT 2026 Europe Series 8",
+    "winner": {
+      "id": 12267,
+      "name": "UNiTY"
+    }
+  },
+  {
+    "id": 2397328,
+    "team1": {
+      "id": 11241,
+      "name": "B8",
+      "score": 2,
+      "rank": 13
+    },
+    "team2": {
+      "id": 11581,
+      "name": "HOTU",
+      "score": 0,
+      "rank": 25
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 10
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 5
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 11241,
+      "name": "B8"
+    }
+  },
+  {
+    "id": 2397325,
+    "team1": {
+      "id": 7532,
+      "name": "BIG",
+      "score": 0,
+      "rank": 15
+    },
+    "team2": {
+      "id": 13592,
+      "name": "magic",
+      "score": 2,
+      "rank": 23
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 17,
+        "team2_score": 19
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 5,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 13592,
+      "name": "magic"
+    }
+  },
+  {
+    "id": 2397323,
+    "team1": {
+      "id": 9215,
+      "name": "MIBR",
+      "score": 2,
+      "rank": 21
+    },
+    "team2": {
+      "id": 11737,
+      "name": "EYEBALLERS",
+      "score": 0,
+      "rank": 35
+    },
+    "maps": [
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 16,
+        "team2_score": 14
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 9215,
+      "name": "MIBR"
+    }
+  },
+  {
+    "id": 2397329,
+    "team1": {
+      "id": 9215,
+      "name": "MIBR",
+      "score": 0,
+      "rank": 21
+    },
+    "team2": {
+      "id": 12895,
+      "name": "K27",
+      "score": 2,
+      "rank": 34
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 6,
+        "team2_score": 13
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 6,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 12895,
+      "name": "K27"
+    }
+  },
+  {
+    "id": 2397330,
+    "team1": {
+      "id": 13592,
+      "name": "magic",
+      "score": 0,
+      "rank": 23
+    },
+    "team2": {
+      "id": 7175,
+      "name": "HEROIC",
+      "score": 2,
+      "rank": 24
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 7,
+        "team2_score": 13
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 3,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 7175,
+      "name": "HEROIC"
+    }
+  },
+  {
+    "id": 2397326,
+    "team1": {
+      "id": 7175,
+      "name": "HEROIC",
+      "score": 2,
+      "rank": 24
+    },
+    "team2": {
+      "id": 13973,
+      "name": "Color",
+      "score": 0,
+      "rank": 58
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 6
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 5
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 7175,
+      "name": "HEROIC"
+    }
+  },
+  {
+    "id": 2396747,
+    "team1": {
+      "id": 11581,
+      "name": "HOTU",
+      "score": 2,
+      "rank": 25
+    },
+    "team2": {
+      "id": 13355,
+      "name": "Nemesis",
+      "score": 0,
+      "rank": 45
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 8
+      }
+    ],
+    "best_of": 1,
+    "date": "2026-09-03",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 11581,
+      "name": "HOTU"
+    }
+  },
+  {
+    "id": 2396748,
+    "team1": {
+      "id": 11581,
+      "name": "HOTU",
+      "score": 1,
+      "rank": 25
+    },
+    "team2": {
+      "id": 4914,
+      "name": "3DMAX",
+      "score": 2,
+      "rank": 33
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 19,
+        "team2_score": 17
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 6,
+        "team2_score": 13
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 7,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 4914,
+      "name": "3DMAX"
+    }
+  },
+  {
+    "id": 2397415,
+    "team1": {
+      "id": 4991,
+      "name": "fnatic",
+      "score": 2,
+      "rank": 32
+    },
+    "team2": {
+      "id": 5378,
+      "name": "Virtus.pro",
+      "score": 1,
+      "rank": 42
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 16,
+        "team2_score": 13
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 11,
+        "team2_score": 13
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 3
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "Stake Ranked Episode 4 Closed Qualifier",
+    "winner": {
+      "id": 4991,
+      "name": "fnatic"
+    }
+  },
+  {
+    "id": 2396746,
+    "team1": {
+      "id": 4914,
+      "name": "3DMAX",
+      "score": 2,
+      "rank": 33
+    },
+    "team2": {
+      "id": 10823,
+      "name": "INFINITE",
+      "score": 0,
+      "rank": 47
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 7
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 19,
+        "team2_score": 16
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 4914,
+      "name": "3DMAX"
+    }
+  },
+  {
+    "id": 2397324,
+    "team1": {
+      "id": 12895,
+      "name": "K27",
+      "score": 2,
+      "rank": 34
+    },
+    "team2": {
+      "id": 7969,
+      "name": "Nemiga",
+      "score": 0,
+      "rank": 51
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 16,
+        "team2_score": 12
+      }
+    ],
+    "best_of": 1,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 12895,
+      "name": "K27"
+    }
+  },
+  {
+    "id": 2397331,
+    "team1": {
+      "id": 12895,
+      "name": "K27",
+      "score": 0,
+      "rank": 34
+    },
+    "team2": {
+      "id": 11251,
+      "name": "Eternal Fire",
+      "score": 2,
+      "rank": 69
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 10,
+        "team2_score": 13
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 7,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 11251,
+      "name": "Eternal Fire"
+    }
+  },
+  {
+    "id": 2397302,
+    "team1": {
+      "id": 8840,
+      "name": "Lynn Vision",
+      "score": 1,
+      "rank": 41
+    },
+    "team2": {
+      "id": 12536,
+      "name": "DEPO",
+      "score": 2,
+      "rank": 63
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 4,
+        "team2_score": 13
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 5
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 7,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Asia Closed Qualifier",
+    "winner": {
+      "id": 12536,
+      "name": "DEPO"
+    }
+  },
+  {
+    "id": 2397327,
+    "team1": {
+      "id": 13027,
+      "name": "Nuclear TigeRES",
+      "score": 2,
+      "rank": 43
+    },
+    "team2": {
+      "id": 11251,
+      "name": "Eternal Fire",
+      "score": 0,
+      "rank": 69
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 10
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 16,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 13027,
+      "name": "Nuclear TigeRES"
+    }
+  },
+  {
+    "id": 2397413,
+    "team1": {
+      "id": 13679,
+      "name": "FOKUS",
+      "score": 2,
+      "rank": 48
+    },
+    "team2": {
+      "id": 10577,
+      "name": "SINNERS",
+      "score": 0,
+      "rank": 72
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 6
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 16,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "Stake Ranked Episode 4 Closed Qualifier",
+    "winner": {
+      "id": 13679,
+      "name": "FOKUS"
+    }
+  },
+  {
+    "id": 2397212,
+    "team1": {
+      "id": 11712,
+      "name": "Sashi",
+      "score": 2,
+      "rank": 49
+    },
+    "team2": {
+      "id": 13333,
+      "name": "ASTRAL",
+      "score": 0,
+      "rank": 77
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 3
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 8
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 11712,
+      "name": "Sashi"
+    }
+  },
+  {
+    "id": 2397412,
+    "team1": {
+      "id": 7969,
+      "name": "Nemiga",
+      "score": 2,
+      "rank": 51
+    },
+    "team2": {
+      "id": 13104,
+      "name": "Iberian Soul",
+      "score": 1,
+      "rank": 59
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 16,
+        "team2_score": 12
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 10,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "Stake Ranked Episode 4 Closed Qualifier",
+    "winner": {
+      "id": 7969,
+      "name": "Nemiga"
+    }
+  },
+  {
+    "id": 2397304,
+    "team1": {
+      "id": 12774,
+      "name": "FlyQuest",
+      "score": 2,
+      "rank": 52
+    },
+    "team2": {
+      "id": 12536,
+      "name": "DEPO",
+      "score": 0,
+      "rank": 63
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 6
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 9
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "IEM Beijing 2026 Asia Closed Qualifier",
+    "winner": {
+      "id": 12774,
+      "name": "FlyQuest"
+    }
+  },
+  {
+    "id": 2397214,
+    "team1": {
+      "id": 13479,
+      "name": "Omega",
+      "score": 0,
+      "rank": 57
+    },
+    "team2": {
+      "id": 11312,
+      "name": "QUAZAR",
+      "score": 2,
+      "rank": 80
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 26,
+        "team2_score": 28
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 10,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 11312,
+      "name": "QUAZAR"
+    }
+  },
+  {
+    "id": 2397211,
+    "team1": {
+      "id": 13173,
+      "name": "Phantom",
+      "score": 2,
+      "rank": 62
+    },
+    "team2": {
+      "id": 10503,
+      "name": "OG",
+      "score": 1,
+      "rank": 81
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 9,
+        "team2_score": 13
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 13173,
+      "name": "Phantom"
+    }
+  },
+  {
+    "id": 2397213,
+    "team1": {
+      "id": 12194,
+      "name": "Rune Eaters",
+      "score": 2,
+      "rank": 74
+    },
+    "team2": {
+      "id": 13178,
+      "name": "NOVAQ",
+      "score": 0,
+      "rank": 81
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 1
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 7
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-03",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 12194,
+      "name": "Rune Eaters"
+    }
+  },
+  {
+    "id": 2397314,
+    "team1": {
+      "id": 11241,
+      "name": "B8",
+      "score": 2,
+      "rank": 13
+    },
+    "team2": {
+      "id": 13973,
+      "name": "Color",
+      "score": 1,
+      "rank": 58
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 9,
+        "team2_score": 13
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 10
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 11241,
+      "name": "B8"
+    }
+  },
+  {
+    "id": 2397320,
+    "team1": {
+      "id": 11241,
+      "name": "B8",
+      "score": 2,
+      "rank": 13
+    },
+    "team2": {
+      "id": 11737,
+      "name": "EYEBALLERS",
+      "score": 0,
+      "rank": 35
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 9
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 11241,
+      "name": "B8"
+    }
+  },
+  {
+    "id": 2397311,
+    "team1": {
+      "id": 7532,
+      "name": "BIG",
+      "score": 1,
+      "rank": 15
+    },
+    "team2": {
+      "id": 7969,
+      "name": "Nemiga",
+      "score": 2,
+      "rank": 51
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 11,
+        "team2_score": 13
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 16
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 7969,
+      "name": "Nemiga"
+    }
+  },
+  {
+    "id": 2397321,
+    "team1": {
+      "id": 7532,
+      "name": "BIG",
+      "score": 2,
+      "rank": 15
+    },
+    "team2": {
+      "id": 4773,
+      "name": "paiN",
+      "score": 0,
+      "rank": 39
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 6
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 7532,
+      "name": "BIG"
+    }
+  },
+  {
+    "id": 2397307,
+    "team1": {
+      "id": 9215,
+      "name": "MIBR",
+      "score": 1,
+      "rank": 21
+    },
+    "team2": {
+      "id": 11251,
+      "name": "Eternal Fire",
+      "score": 2,
+      "rank": 69
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 16,
+        "team2_score": 19
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 11,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 11251,
+      "name": "Eternal Fire"
+    }
+  },
+  {
+    "id": 2397317,
+    "team1": {
+      "id": 9215,
+      "name": "MIBR",
+      "score": 2,
+      "rank": 21
+    },
+    "team2": {
+      "id": 4914,
+      "name": "3DMAX",
+      "score": 0,
+      "rank": 33
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 6
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 9215,
+      "name": "MIBR"
+    }
+  },
+  {
+    "id": 2397309,
+    "team1": {
+      "id": 13592,
+      "name": "magic",
+      "score": 2,
+      "rank": 23
+    },
+    "team2": {
+      "id": 12895,
+      "name": "K27",
+      "score": 0,
+      "rank": 34
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 9
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 1
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 13592,
+      "name": "magic"
+    }
+  },
+  {
+    "id": 2397316,
+    "team1": {
+      "id": 13592,
+      "name": "magic",
+      "score": 0,
+      "rank": 23
+    },
+    "team2": {
+      "id": 13027,
+      "name": "Nuclear TigeRES",
+      "score": 2,
+      "rank": 43
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 5,
+        "team2_score": 13
+      },
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 11,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 13027,
+      "name": "Nuclear TigeRES"
+    }
+  },
+  {
+    "id": 2397308,
+    "team1": {
+      "id": 7175,
+      "name": "HEROIC",
+      "score": 2,
+      "rank": 24
+    },
+    "team2": {
+      "id": 4914,
+      "name": "3DMAX",
+      "score": 1,
+      "rank": 33
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 8,
+        "team2_score": 13
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 5
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 5
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 7175,
+      "name": "HEROIC"
+    }
+  },
+  {
+    "id": 2397315,
+    "team1": {
+      "id": 7175,
+      "name": "HEROIC",
+      "score": 1,
+      "rank": 24
+    },
+    "team2": {
+      "id": 11251,
+      "name": "Eternal Fire",
+      "score": 2,
+      "rank": 69
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 9,
+        "team2_score": 13
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 6
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 1,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 11251,
+      "name": "Eternal Fire"
+    }
+  },
+  {
+    "id": 2397312,
+    "team1": {
+      "id": 11581,
+      "name": "HOTU",
+      "score": 2,
+      "rank": 25
+    },
+    "team2": {
+      "id": 4773,
+      "name": "paiN",
+      "score": 0,
+      "rank": 39
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 4
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 11581,
+      "name": "HOTU"
+    }
+  },
+  {
+    "id": 2397319,
+    "team1": {
+      "id": 11581,
+      "name": "HOTU",
+      "score": 2,
+      "rank": 25
+    },
+    "team2": {
+      "id": 7969,
+      "name": "Nemiga",
+      "score": 0,
+      "rank": 51
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 16,
+        "team2_score": 14
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 9
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 11581,
+      "name": "HOTU"
+    }
+  },
+  {
+    "id": 2397299,
+    "team1": {
+      "id": 4863,
+      "name": "TYLOO",
+      "score": 2,
+      "rank": 26
+    },
+    "team2": {
+      "id": 12536,
+      "name": "DEPO",
+      "score": 0,
+      "rank": 63
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 2
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 2
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Asia Closed Qualifier",
+    "winner": {
+      "id": 4863,
+      "name": "TYLOO"
+    }
+  },
+  {
+    "id": 2397318,
+    "team1": {
+      "id": 9928,
+      "name": "GamerLegion",
+      "score": 1,
+      "rank": 28
+    },
+    "team2": {
+      "id": 12895,
+      "name": "K27",
+      "score": 2,
+      "rank": 34
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 4
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 8,
+        "team2_score": 13
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 5,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 12895,
+      "name": "K27"
+    }
+  },
+  {
+    "id": 2396745,
+    "team1": {
+      "id": 4914,
+      "name": "3DMAX",
+      "score": 2,
+      "rank": 33
+    },
+    "team2": {
+      "id": 13808,
+      "name": "Walczaki",
+      "score": 0,
+      "rank": 91
+    },
+    "maps": [
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 0
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 10
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 4914,
+      "name": "3DMAX"
+    }
+  },
+  {
+    "id": 2397313,
+    "team1": {
+      "id": 11737,
+      "name": "EYEBALLERS",
+      "score": 2,
+      "rank": 35
+    },
+    "team2": {
+      "id": 13926,
+      "name": "DENDELE",
+      "score": 1,
+      "rank": 36
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 3,
+        "team2_score": 13
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 9
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 11737,
+      "name": "EYEBALLERS"
+    }
+  },
+  {
+    "id": 2397322,
+    "team1": {
+      "id": 13926,
+      "name": "DENDELE",
+      "score": 1,
+      "rank": 36
+    },
+    "team2": {
+      "id": 13973,
+      "name": "Color",
+      "score": 2,
+      "rank": 58
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 6
+      },
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 4,
+        "team2_score": 13
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 8,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "IEM Beijing 2026 Closed Qualifier",
+    "winner": {
+      "id": 13973,
+      "name": "Color"
+    }
+  },
+  {
+    "id": 2396743,
+    "team1": {
+      "id": 10621,
+      "name": "1win",
+      "score": 0,
+      "rank": 37
+    },
+    "team2": {
+      "id": 13355,
+      "name": "Nemesis",
+      "score": 2,
+      "rank": 45
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 5,
+        "team2_score": 13
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 6,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 13355,
+      "name": "Nemesis"
+    }
+  },
+  {
+    "id": 2396744,
+    "team1": {
+      "id": 10823,
+      "name": "INFINITE",
+      "score": 2,
+      "rank": 47
+    },
+    "team2": {
+      "id": 13924,
+      "name": "Black Phoenix",
+      "score": 0,
+      "rank": 97
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 10
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 10823,
+      "name": "INFINITE"
+    }
+  },
+  {
+    "id": 2397247,
+    "team1": {
+      "id": 13814,
+      "name": "INOX Division",
+      "score": 2,
+      "rank": 54
+    },
+    "team2": {
+      "id": 12267,
+      "name": "UNiTY",
+      "score": 0,
+      "rank": 88
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 9
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "CCT 2026 Europe Series 8",
+    "winner": {
+      "id": 13814,
+      "name": "INOX Division"
+    }
+  },
+  {
+    "id": 2397210,
+    "team1": {
+      "id": 13104,
+      "name": "Iberian Soul",
+      "score": 1,
+      "rank": 59
+    },
+    "team2": {
+      "id": 10278,
+      "name": "9INE",
+      "score": 2,
+      "rank": 70
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 4,
+        "team2_score": 13
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 10
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 3,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 10278,
+      "name": "9INE"
+    }
+  },
+  {
+    "id": 2397209,
+    "team1": {
+      "id": 11641,
+      "name": "Metizport",
+      "score": 2,
+      "rank": 60
+    },
+    "team2": {
+      "id": 13808,
+      "name": "Walczaki",
+      "score": 0,
+      "rank": 91
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 9
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 6
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 11641,
+      "name": "Metizport"
+    }
+  },
+  {
+    "id": 2397207,
+    "team1": {
+      "id": 10577,
+      "name": "SINNERS",
+      "score": 2,
+      "rank": 72
+    },
+    "team2": {
+      "id": 13838,
+      "name": "EAC",
+      "score": 1,
+      "rank": 81
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 3,
+        "team2_score": 13
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 10
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 10577,
+      "name": "SINNERS"
+    }
+  },
+  {
+    "id": 2397246,
+    "team1": {
+      "id": 13573,
+      "name": "ex-Zero Tenacity",
+      "score": 2,
+      "rank": 79
+    },
+    "team2": {
+      "id": 13924,
+      "name": "Black Phoenix",
+      "score": 0,
+      "rank": 97
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 7
+      },
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 8
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "CCT 2026 Europe Series 8",
+    "winner": {
+      "id": 13573,
+      "name": "ex-Zero Tenacity"
+    }
+  },
+  {
+    "id": 2397248,
+    "team1": {
+      "id": 13838,
+      "name": "EAC",
+      "score": 2,
+      "rank": 81
+    },
+    "team2": {
+      "id": 13281,
+      "name": "Bushido Wildcats",
+      "score": 1,
+      "rank": 95
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 7
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 9,
+        "team2_score": 13
+      },
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-02",
+    "event": "CCT 2026 Europe Series 8",
+    "winner": {
+      "id": 13838,
+      "name": "EAC"
+    }
+  },
+  {
+    "id": 2397062,
+    "team1": {
+      "id": 11581,
+      "name": "HOTU",
+      "score": 2,
+      "rank": 25
+    },
+    "team2": {
+      "id": 13973,
+      "name": "Color",
+      "score": 1,
+      "rank": 58
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 25,
+        "team2_score": 22
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 10,
+        "team2_score": 13
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 7
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-01",
+    "event": "GLuck Moscow Cyber Games 2026 Closed Qualifier",
+    "winner": {
+      "id": 11581,
+      "name": "HOTU"
+    }
+  },
+  {
+    "id": 2396740,
+    "team1": {
+      "id": 10621,
+      "name": "1win",
+      "score": 2,
+      "rank": 37
+    },
+    "team2": {
+      "id": 13814,
+      "name": "INOX Division",
+      "score": 1,
+      "rank": 54
+    },
+    "maps": [
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 10
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 8,
+        "team2_score": 13
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-01",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 10621,
+      "name": "1win"
+    }
+  },
+  {
+    "id": 2397061,
+    "team1": {
+      "id": 10621,
+      "name": "1win",
+      "score": 2,
+      "rank": 37
+    },
+    "team2": {
+      "id": 13027,
+      "name": "Nuclear TigeRES",
+      "score": 0,
+      "rank": 43
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 19,
+        "team2_score": 16
+      },
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 8
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-01",
+    "event": "GLuck Moscow Cyber Games 2026 Closed Qualifier",
+    "winner": {
+      "id": 10621,
+      "name": "1win"
+    }
+  },
+  {
+    "id": 2396741,
+    "team1": {
+      "id": 13027,
+      "name": "Nuclear TigeRES",
+      "score": 2,
+      "rank": 43
+    },
+    "team2": {
+      "id": 13973,
+      "name": "Color",
+      "score": 1,
+      "rank": 58
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 9,
+        "team2_score": 13
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 2
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-01",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 13027,
+      "name": "Nuclear TigeRES"
+    }
+  },
+  {
+    "id": 2396738,
+    "team1": {
+      "id": 13355,
+      "name": "Nemesis",
+      "score": 2,
+      "rank": 45
+    },
+    "team2": {
+      "id": 13214,
+      "name": "SPARTA",
+      "score": 0,
+      "rank": 94
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 7
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 16,
+        "team2_score": 12
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-01",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 13355,
+      "name": "Nemesis"
+    }
+  },
+  {
+    "id": 2397155,
+    "team1": {
+      "id": 9455,
+      "name": "Imperial",
+      "score": 2,
+      "rank": 61
+    },
+    "team2": {
+      "id": 12677,
+      "name": "Galorys",
+      "score": 0,
+      "rank": 89
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 9
+      },
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 11
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-01",
+    "event": "ESL Challenger League Season 52 South America Cup 1",
+    "winner": {
+      "id": 9455,
+      "name": "Imperial"
+    }
+  },
+  {
+    "id": 2397205,
+    "team1": {
+      "id": 11251,
+      "name": "Eternal Fire",
+      "score": 2,
+      "rank": 69
+    },
+    "team2": {
+      "id": 13304,
+      "name": "LP",
+      "score": 1,
+      "rank": 101
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 7
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 10,
+        "team2_score": 13
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 6
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-09-01",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 11251,
+      "name": "Eternal Fire"
+    }
+  },
+  {
+    "id": 2396943,
+    "team1": {
+      "id": 7020,
+      "name": "Spirit",
+      "score": 2,
+      "rank": 1
+    },
+    "team2": {
+      "id": 8297,
+      "name": "FURIA",
+      "score": 0,
+      "rank": 7
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 5
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 10
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "BLAST Open Porto 2026",
+    "winner": {
+      "id": 7020,
+      "name": "Spirit"
+    }
+  },
+  {
+    "id": 2396945,
+    "team1": {
+      "id": 4494,
+      "name": "MOUZ",
+      "score": 2,
+      "rank": 2
+    },
+    "team2": {
+      "id": 11283,
+      "name": "Falcons",
+      "score": 1,
+      "rank": 3
+    },
+    "maps": [
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 3
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 6,
+        "team2_score": 13
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 6
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "BLAST Open Porto 2026",
+    "winner": {
+      "id": 4494,
+      "name": "MOUZ"
+    }
+  },
+  {
+    "id": 2396946,
+    "team1": {
+      "id": 9565,
+      "name": "Vitality",
+      "score": 2,
+      "rank": 4
+    },
+    "team2": {
+      "id": 13286,
+      "name": "FUT",
+      "score": 0,
+      "rank": 5
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 7
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 8
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "BLAST Open Porto 2026",
+    "winner": {
+      "id": 9565,
+      "name": "Vitality"
+    }
+  },
+  {
+    "id": 2396944,
+    "team1": {
+      "id": 5995,
+      "name": "G2",
+      "score": 2,
+      "rank": 8
+    },
+    "team2": {
+      "id": 11861,
+      "name": "Aurora",
+      "score": 1,
+      "rank": 12
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 7,
+        "team2_score": 13
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 19,
+        "team2_score": 16
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 1
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "BLAST Open Porto 2026",
+    "winner": {
+      "id": 5995,
+      "name": "G2"
+    }
+  },
+  {
+    "id": 2396736,
+    "team1": {
+      "id": 11581,
+      "name": "HOTU",
+      "score": 2,
+      "rank": 25
+    },
+    "team2": {
+      "id": 13989,
+      "name": "UPGRADE",
+      "score": 1,
+      "rank": 78
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 2
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 15,
+        "team2_score": 19
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 11581,
+      "name": "HOTU"
+    }
+  },
+  {
+    "id": 2397057,
+    "team1": {
+      "id": 11581,
+      "name": "HOTU",
+      "score": 2,
+      "rank": 25
+    },
+    "team2": {
+      "id": 13214,
+      "name": "SPARTA",
+      "score": 0,
+      "rank": 94
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 5
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "GLuck Moscow Cyber Games 2026 Closed Qualifier",
+    "winner": {
+      "id": 11581,
+      "name": "HOTU"
+    }
+  },
+  {
+    "id": 2396735,
+    "team1": {
+      "id": 4914,
+      "name": "3DMAX",
+      "score": 2,
+      "rank": 33
+    },
+    "team2": {
+      "id": 13908,
+      "name": "Butterfly",
+      "score": 0,
+      "rank": 68
+    },
+    "maps": [
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 6
+      },
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 13,
+        "team2_score": 4
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 4914,
+      "name": "3DMAX"
+    }
+  },
+  {
+    "id": 2397059,
+    "team1": {
+      "id": 10621,
+      "name": "1win",
+      "score": 2,
+      "rank": 37
+    },
+    "team2": {
+      "id": 13617,
+      "name": "ex-RUBY",
+      "score": 0,
+      "rank": 66
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 10
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 8
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "GLuck Moscow Cyber Games 2026 Closed Qualifier",
+    "winner": {
+      "id": 10621,
+      "name": "1win"
+    }
+  },
+  {
+    "id": 2397058,
+    "team1": {
+      "id": 13027,
+      "name": "Nuclear TigeRES",
+      "score": 2,
+      "rank": 43
+    },
+    "team2": {
+      "id": 13355,
+      "name": "Nemesis",
+      "score": 1,
+      "rank": 45
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 5,
+        "team2_score": 13
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 7
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "GLuck Moscow Cyber Games 2026 Closed Qualifier",
+    "winner": {
+      "id": 13027,
+      "name": "Nuclear TigeRES"
+    }
+  },
+  {
+    "id": 2397060,
+    "team1": {
+      "id": 13973,
+      "name": "Color",
+      "score": 2,
+      "rank": 58
+    },
+    "team2": {
+      "id": 13989,
+      "name": "UPGRADE",
+      "score": 0,
+      "rank": 78
+    },
+    "maps": [
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 11
+      },
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 7
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "GLuck Moscow Cyber Games 2026 Closed Qualifier",
+    "winner": {
+      "id": 13973,
+      "name": "Color"
+    }
+  },
+  {
+    "id": 2397202,
+    "team1": {
+      "id": 11641,
+      "name": "Metizport",
+      "score": 1,
+      "rank": 60
+    },
+    "team2": {
+      "id": 13333,
+      "name": "ASTRAL",
+      "score": 2,
+      "rank": 77
+    },
+    "maps": [
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 10,
+        "team2_score": 13
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 8
+      },
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 9,
+        "team2_score": 13
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "Logitech G Play Connect 2026 Closed Qualifier",
+    "winner": {
+      "id": 13333,
+      "name": "ASTRAL"
+    }
+  },
+  {
+    "id": 2397154,
+    "team1": {
+      "id": 9455,
+      "name": "Imperial",
+      "score": 2,
+      "rank": 61
+    },
+    "team2": {
+      "id": 12959,
+      "name": "ShindeN",
+      "score": 1,
+      "rank": 97
+    },
+    "maps": [
+      {
+        "id": 11,
+        "name": "Cache",
+        "team1_score": 16,
+        "team2_score": 19
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 9
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 19,
+        "team2_score": 16
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "ESL Challenger League Season 52 South America Cup 1",
+    "winner": {
+      "id": 9455,
+      "name": "Imperial"
+    }
+  },
+  {
+    "id": 2397397,
+    "team1": {
+      "id": 13375,
+      "name": "SportsBetExpert",
+      "score": 2,
+      "rank": 65
+    },
+    "team2": {
+      "id": 11955,
+      "name": "LAG",
+      "score": 3,
+      "rank": 86
+    },
+    "maps": [
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 13,
+        "team2_score": 7
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 2,
+        "team2_score": 13
+      },
+      {
+        "id": 1,
+        "name": "Anubis",
+        "team1_score": 13,
+        "team2_score": 16
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 6
+      }
+    ],
+    "best_of": 5,
+    "date": "2026-08-31",
+    "event": "FRAG Midwest St. Louis 2026",
+    "winner": {
+      "id": 11955,
+      "name": "LAG"
+    }
+  },
+  {
+    "id": 2396737,
+    "team1": {
+      "id": 13619,
+      "name": "BET-M",
+      "score": 1,
+      "rank": 87
+    },
+    "team2": {
+      "id": 13808,
+      "name": "Walczaki",
+      "score": 2,
+      "rank": 91
+    },
+    "maps": [
+      {
+        "id": 3,
+        "name": "Ancient",
+        "team1_score": 3,
+        "team2_score": 13
+      },
+      {
+        "id": 7,
+        "name": "Inferno",
+        "team1_score": 13,
+        "team2_score": 4
+      },
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 13,
+        "team2_score": 16
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-31",
+    "event": "NODWIN Clutch Series 11",
+    "winner": {
+      "id": 13808,
+      "name": "Walczaki"
+    }
+  },
+  {
+    "id": 2396941,
+    "team1": {
+      "id": 9565,
+      "name": "Vitality",
+      "score": 2,
+      "rank": 4
+    },
+    "team2": {
+      "id": 12468,
+      "name": "Legacy",
+      "score": 1,
+      "rank": 6
+    },
+    "maps": [
+      {
+        "id": 5,
+        "name": "Nuke",
+        "team1_score": 16,
+        "team2_score": 14
+      },
+      {
+        "id": 6,
+        "name": "Mirage",
+        "team1_score": 9,
+        "team2_score": 13
+      },
+      {
+        "id": 4,
+        "name": "Dust2",
+        "team1_score": 13,
+        "team2_score": 8
+      }
+    ],
+    "best_of": 3,
+    "date": "2026-08-30",
+    "event": "BLAST Open Porto 2026",
+    "winner": {
+      "id": 9565,
+      "name": "Vitality"
+    }
+  }
+]

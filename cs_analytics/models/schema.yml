@@ -1,0 +1,404 @@
+version: 2
+
+models:
+
+  - name: br_matches
+    description: >
+      Dados brutos de partidas obtidos da API de CS.
+      Cada registro representa uma partida e mantém estruturas
+      aninhadas de times, mapas e vencedor conforme retornadas
+      pela fonte.
+    columns:
+      - name: id
+        description: "Identificador único da partida."
+
+      - name: team1
+        description: >
+          Estrutura contendo as informações do primeiro time:
+          id, nome, placar da partida e ranking do time na data.
+
+      - name: team2
+        description: >
+          Estrutura contendo as informações do segundo time:
+          id, nome, placar da partida e ranking do time na data.
+
+      - name: maps
+        description: >
+          Lista de mapas disputados na partida. Cada elemento
+          contém identificador, nome e placar de cada time.
+
+      - name: best_of
+        description: "Formato da partida, como BO1 ou BO3."
+
+      - name: date
+        description: "Data em que a partida ocorreu."
+
+      - name: event
+        description: "Nome do evento ou campeonato da partida."
+
+      - name: winner
+        description: >
+          Estrutura contendo o identificador e o nome do time
+          vencedor da partida.
+
+
+  - name: br_teams
+    description: >
+      Dados brutos dos times disponibilizados pela API.
+      Representa a lista de times retornada pela fonte.
+    columns:
+      - name: id
+        description: "Identificador único do time."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: name
+        description: "Nome do time."
+
+
+  - name: br_player_stats
+    description: >
+      Dados brutos de estatísticas dos jogadores disponibilizados
+      pela API. Representa um snapshot das estatísticas retornadas
+      pela fonte no momento da ingestão.
+    columns:
+      - name: api_consulted_date
+        description: "Data em que a API foi consultada e os dados foram ingeridos."
+        data_tests:
+          - not_null
+
+      - name: id
+        description: "Identificador único do jogador."
+
+      - name: name
+        description: "Nome do jogador."
+
+      - name: rank
+        description: "Ranking do jogador no conjunto retornado pela API."
+
+      - name: k
+        description: "Quantidade de kills registrada para o jogador."
+
+      - name: d
+        description: "Quantidade de deaths registrada para o jogador."
+
+      - name: swing
+        description: "Métrica de swing disponibilizada pela API."
+
+      - name: adr
+        description: "Average Damage per Round (ADR) do jogador."
+
+      - name: kast
+        description: "Percentual de rounds em que o jogador teve KAST."
+
+      - name: rating
+        description: "Rating do jogador segundo a métrica da fonte."
+
+      - name: N
+        description: "Quantidade de partidas considerada pela estatística."
+
+
+  - name: br_rankings
+    description: >
+      Snapshot dos rankings de times disponibilizado pela API.
+      O registro contém a data de referência do ranking e a coleção
+      de rankings retornada pela fonte.
+    columns:
+      - name: date
+        description: "Data de referência do ranking."
+
+      - name: rankings
+        description: >
+          Lista contendo os rankings dos times na data de referência.
+
+
+  - name: sl_matches
+    description: >
+      Dados tratados de partidas. Cada registro representa uma
+      partida individual, com os dados dos dois times e do vencedor
+      extraídos das estruturas aninhadas da Bronze.
+    columns:
+      - name: match_date
+        description: "Data em que a partida ocorreu."
+
+      - name: event_name
+        description: "Nome do evento ou campeonato da partida."
+
+      - name: match_id
+        description: "Identificador único da partida."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: team1_id
+        description: "Identificador do primeiro time da partida."
+
+      - name: team1_name
+        description: "Nome do primeiro time da partida."
+
+      - name: team1_match_score
+        description: "Quantidade de mapas vencidos pelo primeiro time na partida."
+
+      - name: teams1_hltv_rank_match_date
+        description: >
+          Ranking HLTV do primeiro time na data da partida,
+          conforme disponibilizado pela fonte.
+
+      - name: team2_id
+        description: "Identificador do segundo time da partida."
+
+      - name: team2_name
+        description: "Nome do segundo time da partida."
+
+      - name: team2_match_score
+        description: "Quantidade de mapas vencidos pelo segundo time na partida."
+
+      - name: teams2_hltv_rank_match_date
+        description: >
+          Ranking HLTV do segundo time na data da partida,
+          conforme disponibilizado pela fonte.
+
+      - name: match_winner_name
+        description: "Nome do time vencedor da partida."
+
+      - name: best_of
+        description: "Formato da partida, como BO1 ou BO3."
+
+
+  - name: sl_match_maps
+    description: >
+      Dados tratados dos mapas disputados nas partidas.
+      Cada registro representa um mapa individual dentro de uma partida.
+      A estrutura de mapas da Bronze é expandida através de UNNEST.
+    columns:
+      - name: match_id
+        description: "Identificador da partida à qual o mapa pertence."
+        data_tests:
+          - not_null
+
+      - name: map_id
+        description: "Identificador do mapa."
+        data_tests:
+          - not_null
+
+      - name: map_name
+        description: "Nome do mapa disputado."
+
+      - name: team1_score
+        description: "Placar do primeiro time no mapa."
+
+      - name: team2_score
+        description: "Placar do segundo time no mapa."
+
+
+  - name: sl_teams
+    description: >
+      Dados tratados dos times disponibilizados pela API.
+      Cada registro representa um time individual.
+    columns:
+      - name: team_id
+        description: "Identificador único do time."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: team_name
+        description: "Nome do time."
+
+
+  - name: sl_player_stats
+    description: >
+      Dados tratados das estatísticas dos jogadores.
+      Cada registro representa um jogador em um determinado
+      snapshot da API.
+    columns:
+      - name: api_consulted_date
+        description: "Data em que a API foi consultada e os dados foram ingeridos."
+        data_tests:
+          - not_null
+
+      - name: player_id
+        description: "Identificador do jogador."
+        data_tests:
+          - not_null
+
+      - name: player_name
+        description: "Nome do jogador."
+
+      - name: player_rank
+        description: "Ranking do jogador no conjunto retornado pela API."
+
+      - name: kills
+        description: "Quantidade de kills registrada para o jogador."
+
+      - name: deaths
+        description: "Quantidade de deaths registrada para o jogador."
+
+      - name: swing
+        description: "Métrica de swing disponibilizada pela API."
+
+      - name: adr
+        description: "Average Damage per Round (ADR) do jogador."
+
+      - name: kast
+        description: "Percentual de rounds em que o jogador teve KAST."
+
+      - name: rating
+        description: "Rating do jogador segundo a métrica da fonte."
+
+      - name: matches_count
+        description: "Quantidade de partidas considerada pela estatística."
+
+
+  - name: sl_rankings
+    description: >
+      Dados tratados do ranking de times.
+      A estrutura aninhada de rankings da Bronze é expandida,
+      gerando um registro por time em cada data de referência.
+    columns:
+      - name: ranking_date
+        description: "Data de referência do ranking."
+        data_tests:
+          - not_null
+
+      - name: team_id
+        description: "Identificador do time no ranking."
+        data_tests:
+          - not_null
+
+      - name: team_name
+        description: "Nome do time."
+
+      - name: team_rank
+        description: "Posição do time no ranking na data de referência."
+
+
+  - name: gold_team_performance
+    description: >
+      Modelo analítico de desempenho dos times.
+      Cada registro representa um time considerando todas as
+      partidas disponíveis na base.
+      O modelo consolida partidas vencidas, partidas perdidas,
+      mapas vencidos, mapas perdidos, win rate e ranking HLTV médio.
+    columns:
+      - name: team_id
+        description: "Identificador único do time."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: team_name
+        description: "Nome do time."
+
+      - name: matches_played
+        description: "Quantidade total de partidas disputadas pelo time."
+        data_tests:
+          - not_null
+
+      - name: matches_won
+        description: "Quantidade de partidas vencidas pelo time."
+        data_tests:
+          - not_null
+
+      - name: matches_lost
+        description: "Quantidade de partidas perdidas pelo time."
+        data_tests:
+          - not_null
+
+      - name: maps_won
+        description: "Quantidade total de mapas vencidos pelo time."
+        data_tests:
+          - not_null
+
+      - name: maps_lost
+        description: "Quantidade total de mapas perdidos pelo time."
+        data_tests:
+          - not_null
+
+      - name: win_rate
+        description: >
+          Percentual de partidas vencidas pelo time em relação
+          ao total de partidas disputadas.
+
+      - name: avg_hltv_rank
+        description: >
+          Ranking HLTV médio do time considerando as partidas
+          disponíveis na base.
+
+
+  - name: gold_player_performance
+    description: >
+      Modelo analítico de desempenho dos jogadores.
+      Cada registro representa um jogador em um determinado
+      snapshot da API.
+      O modelo adiciona métricas derivadas para facilitar
+      análises de performance.
+    columns:
+      - name: api_consulted_date
+        description: "Data em que a API foi consultada e os dados foram ingeridos."
+        data_tests:
+          - not_null
+
+      - name: player_id
+        description: "Identificador do jogador."
+        data_tests:
+          - not_null
+
+      - name: player_name
+        description: "Nome do jogador."
+
+      - name: player_rank
+        description: "Ranking do jogador no snapshot da API."
+
+      - name: kills
+        description: "Quantidade de kills registrada para o jogador."
+
+      - name: deaths
+        description: "Quantidade de deaths registrada para o jogador."
+
+      - name: kill_death_ratio
+        description: >
+          Relação entre kills e deaths do jogador.
+          Calculada como kills divididas por deaths.
+
+      - name: swing
+        description: "Métrica de swing disponibilizada pela fonte."
+
+      - name: adr
+        description: "Average Damage per Round (ADR) do jogador."
+
+      - name: kast
+        description: "Percentual de rounds em que o jogador teve KAST."
+
+      - name: rating
+        description: "Rating do jogador segundo a métrica da fonte."
+
+      - name: matches_count
+        description: "Quantidade de partidas considerada pela estatística."
+
+
+  - name: gold_team_ranking
+    description: >
+      Modelo analítico contendo o ranking mais recente dos times
+      disponível na fonte.
+      Cada registro representa um time na data mais recente
+      de ranking disponível.
+    columns:
+      - name: ranking_date
+        description: "Data de referência do ranking mais recente."
+        data_tests:
+          - not_null
+
+      - name: team_id
+        description: "Identificador do time."
+        data_tests:
+          - not_null
+
+      - name: team_name
+        description: "Nome do time."
+
+      - name: team_rank
+        description: "Posição do time no ranking."
+        data_tests:
+          - not_null

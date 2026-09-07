@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# dbt
+target/
+dbt_packages/
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+# VS Code
+.vscode/
+
+# dbt logs
+logs/
