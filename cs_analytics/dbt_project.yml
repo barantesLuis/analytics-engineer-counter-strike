@@ -26,3 +26,6 @@ models:
 
     gold:
       +materialized: table
+
+    observability:
+      +materialized: table
